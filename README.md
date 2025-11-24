@@ -1,6 +1,4 @@
-## Hi there 👋
-
-Hi, I'm Mirkolouis 👋
+##Hi, I'm Mirkolouis 👋
 
 I’m a Bachelor of Science in Information Technology student specializing in **Database Systems**. I enjoy building **full‑stack web applications** and have experience working with:
 
@@ -19,6 +17,10 @@ I'm building my own **BitTorrent client**, exploring peer‑to‑peer networking
 📫 How to Reach Me
 
 **Email:** [mirkolouis33@gmail.com](mailto:mirkolouis33@gmail.com)
+
+**Fun Fact:**
+* One of the things I like to do everyday is the ride to and from my destinations.
+* Likes zombie games
 
 Thanks for visiting my GitHub profile! Feel free to check out my projects or reach out if you'd like to connect.
 
