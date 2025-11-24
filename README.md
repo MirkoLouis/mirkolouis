@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-# Hi, I'm Mirkolouis 👋
-
-## 👨‍💻 About Me
+Hi, I'm Mirkolouis 👋
 
 I’m a Bachelor of Science in Information Technology student specializing in **Database Systems**. I enjoy building **full‑stack web applications** and have experience working with:
 
@@ -10,17 +8,17 @@ I’m a Bachelor of Science in Information Technology student specializing in **
 * **Node.js + Express** for backend development
 * **HTML + Handlebars (HBS)** for frontend templating
 
-## 🔧 What I'm Currently Working On
+🔧 What I'm Currently Working On
 
 I'm building my own **BitTorrent client**, exploring peer‑to‑peer networking, data transfer protocols, and low‑level system behavior.
 
-## 🧰 Tools I Use
+🧰 Tools I Use
 
-* **Visual Studio Code (VS Code)** as my main development editor
+**Visual Studio Code (VS Code)** as my main development editor
 
-## 📫 How to Reach Me
+📫 How to Reach Me
 
-* **Email:** [mirkolouis33@gmail.com](mailto:mirkolouis33@gmail.com)
+**Email:** [mirkolouis33@gmail.com](mailto:mirkolouis33@gmail.com)
 
 Thanks for visiting my GitHub profile! Feel free to check out my projects or reach out if you'd like to connect.
 
