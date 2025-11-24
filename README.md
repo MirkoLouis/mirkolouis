@@ -1,5 +1,4 @@
 ## Hi, I'm Mirkolouis 👋
-
 I’m a Bachelor of Science in Information Technology student specializing in **Database Systems**. I enjoy building **full‑stack web applications** and have experience working with:
 
 * **MySQL** for data management
