@@ -11,7 +11,7 @@ I'm building my own **BitTorrent client**, exploring peer‑to‑peer networking
 
 🧰 Tools I Use
 
-**Visual Studio Code (VS Code)** as my main development editor
+**Visual Studio Code (VS Code)** as my main development editor.
 
 📫 How to Reach Me
 
