@@ -13,7 +13,7 @@ I’m a Bachelor of Science in Information Technology student specializing in **
 
 🔧 What I'm Currently Working On
 
-I'm building my own **BitTorrent client**, exploring peer‑to‑peer networking, data transfer protocols, and low‑level system behavior.
+I'm building a Document Tracking System for a thesis project. Introducing new technologies such as Blockchain, QR Code Integration, Database-Driven Route Prediction & Learning and HCI.
 
 🧰 Tools I Use
 
