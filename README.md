@@ -5,6 +5,12 @@ I’m a Bachelor of Science in Information Technology student specializing in **
 * **Node.js + Express** for backend development
 * **HTML + Handlebars (HBS)** for frontend templating
 
+## Learning:
+
+* **Laravel**
+* **PHP**
+* **Linux**
+
 🔧 What I'm Currently Working On
 
 I'm building my own **BitTorrent client**, exploring peer‑to‑peer networking, data transfer protocols, and low‑level system behavior.
