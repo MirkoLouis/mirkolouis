@@ -13,11 +13,7 @@ I’m a Bachelor of Science in Information Technology student specializing in **
 
 🔧 What I'm Currently Working On
 
-I'm building a Document Tracking System for a thesis project. Introducing new technologies such as Blockchain, QR Code Integration, Database-Driven Route Prediction & Learning and HCI.
-
-🧰 Tools I Use
-
-**Visual Studio Code (VS Code)** as my main development editor.
+I'm building a Document Tracking System for a thesis project. Introducing new technologies such as Blockchain, QR Code Integration, and Human Computer Interaction friendly designs.
 
 📫 How to Reach Me
 
